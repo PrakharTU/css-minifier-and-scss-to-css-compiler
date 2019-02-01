@@ -1,0 +1,25 @@
+@import:url(/abc.css);
+
+body{
+	font-size:12px ;
+	color:red;
+	height:12em !important;
+	width:100% !important;
+}
+
+h1,h2,h3{
+	color:red;
+}
+
+li a{
+	/* text-decoration: none*/
+	background-color: #12ff00;
+}
+
+body{
+	font-size:13px;
+	color:blue !important;
+	height:18em;
+	WIDTH:50% !important;
+}
+
